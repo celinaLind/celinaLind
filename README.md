@@ -2,7 +2,7 @@
 ![Header](./github-header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=400&center=true&vCenter=true&width=1000&lines=Great+to+see+you+again!;Software+Engineer;AI%2FML+Enthusiast;Sustainability+Junkie;Reach+out+to+connect+and+learn+more+!)](https://git.io/typing-svg)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celinaLind&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 ## Currently
      Student at Western Governors University studying for my Bachelor of Science in Computer Science.
         

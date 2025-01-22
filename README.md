@@ -1,5 +1,7 @@
 
-### Welcome to my profile!👋
+![Header](./github_header_image.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI/ML+Enthusiast;Sustainability+Junkie;Reach+out+so+we+can+connect!)](https://git.io/typing-svg)
 
 ## Currently
      Student at Western Governors University studying for my Bachelor of Science in Computer Science.
